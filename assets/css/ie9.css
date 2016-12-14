@@ -1,0 +1,10 @@
+/*
+	Piano by EasyMode
+	EasyMode.io | hello@easymode.io
+*/
+
+/* Header */
+
+	#nav > ul > li.current:before {
+		display: none;
+	}
